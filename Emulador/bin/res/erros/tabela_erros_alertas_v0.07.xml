@@ -1,0 +1,85 @@
+<tabelaErros>
+	<cod1004>Rejeição: Versão do leiaute do arquivo de entrada do SAT não é válida</cod1004>
+	<cod1005>Alerta: Versão do leiaute do arquivo de entrada do SAT não é a mais atual</cod1005>
+	<cod1019>Rejeição: numeração dos itens não é sequencial crescente</cod1019>
+	<cod1073>Rejeição: Valor de Desconto sobre total não é maior ou igual a zero. </cod1073>
+	<cod1074>Rejeição: Valor de Acréscimo sobre total não é maior ou igual a zero. </cod1074>
+	<cod1083>Sem conexão com a Rede Local</cod1083>
+	<cod1084>Formatação do Certificado não é válido.</cod1084>
+	
+	<cod1203>Rejeição: Emitente não  autorizado para uso do SAT.</cod1203>
+	<cod1207>Rejeição: CNPJ do emitente inválido</cod1207>
+	<cod1209>Rejeição: IE do emitente inválida</cod1209>
+	<cod1218>Rejeição: Chave de acesso do CF-e-SAT já consta como cancelado</cod1218>
+	<cod1220>Rejeição: Valor do rateio do desconto sobre subtotal do item (N) inválido.</cod1220>
+	<cod1221>Rejeição: Aplicativo Comercial não vinculado ao SAT</cod1221>
+	<cod1224>Rejeição: CNPJ da Software House inválido</cod1224>
+	<cod1226>Rejeição: Código da UF do Emitente diverge da UF receptora.</cod1226>
+	<cod1228>Rejeição: Valor do rateio do acréscimo sobre subtotal do item (N) inválido.</cod1228>
+	<cod1229>Rejeição: IE do emitente não informada</cod1229>
+	<cod1230>Rejeição: IE do emitente diferente da IE do contribuinte autorizado para uso do SAT</cod1230>
+	<cod1234>Alerta: Razão Social/Nome  do destinatário em branco</cod1234>
+	<cod1235>Rejeição: CNPJ do destinatário inválido</cod1235>
+	<cod1237>Rejeição: CPF do destinatário inválido</cod1237>
+	<cod1258>Rejeição: Data/hora inválida. Problemas com o relógio interno do SAT-CF-e</cod1258>
+	<cod1287>Rejeição: Código Município do FG - ISSQN: dígito inválido. Exceto os códigos descritos no Anexo 2 que apresentam dígito inválido.</cod1287>
+	
+	<cod1408>Rejeição: Valor total do CF-e-SAT maior que o somatório dos valores de Meio de Pagamento empregados em seu pagamento.</cod1408>
+	<cod1409>Rejeição: Valor total do CF-e-SAT supera o máximo permitido no arquivo de Parametrização de Uso</cod1409>
+	<cod1450>Rejeição: Código de modelo de documento fiscal diferente de 59</cod1450>
+	<cod1455>Rejeição: Assinatura do Aplicativo Comercial não é válida.</cod1455>
+	<cod1456>Rejeição: Código de Regime Tributário inválido</cod1456>
+	<cod1457>Rejeição: Código de Natureza da Operação para ISSQN inválido</cod1457>
+	<cod1459>Rejeição: Código do produto ou serviço em branco</cod1459>
+	<cod1460>Rejeição: GTIN do item (N) inválido</cod1460>
+	<cod1461>Rejeição: Descrição do produto ou serviço em branco</cod1461>
+	<cod1462>Rejeição: CFOP não é de Operação de saída prevista para CF-e-SAT</cod1462>
+	<cod1463>Rejeição: Unidade Comercial do produto ou serviço em branco</cod1463>
+	<cod1464>Rejeição: Quantidade Comercial do item (N) inválido.</cod1464>
+	<cod1465>Rejeição: Valor Unitário do item (N) inválido.</cod1465>
+	<cod1467>Rejeição: Regra de cálculo do Item (N) inválido (diferente de "A" e "T")</cod1467>
+	<cod1468>Rejeição: Valor do Desconto do item (N) inválido.</cod1468>
+	<cod1469>Rejeição: Valor de outras despesas acessórias do item (N) inválido.</cod1469>
+	<cod1471>Rejeição: Origem da mercadoria do Item (N) inválido (diferente de 0, 1 e 2)</cod1471>
+	<cod1472>Rejeição: CST do Item (N) inválido (diferente de 00, 20, 90)</cod1472>
+	<cod1473>Rejeição: Alíquota efetiva do ICMS do item (N) não é maior ou igual a zero.</cod1473>
+	<cod1475>Rejeição: CST do Item (N) inválido   (diferente de 40 e 41 e 60)</cod1475>
+	<cod1476>Rejeição: Código de situação da operação - Simples Nacional - do Item (N) inválido (diferente de 102, 300, 400 e 500)</cod1476>
+	<cod1477>Rejeição: Código de situação da operação - Simples Nacional - do Item (N) inválido (diferente de 900)</cod1477>
+	<cod1478>Rejeição: Código de Situação Tributária do PIS Inválido (diferente de 01, 02 e 05)</cod1478>
+	<cod1479>Rejeição: Base de cálculo do PIS do item (N) inválido.</cod1479>
+	<cod1480>Rejeição: Alíquota do PIS do item (N) não é maior ou igual a zero.</cod1480>
+	<cod1482>Rejeição: Código de Situação Tributária do PIS Inválido (diferente de 03)</cod1482>
+	<cod1483>Rejeição: Qtde Vendida do item (N) não é maior ou igual a zero.</cod1483>
+	<cod1484>Rejeição: Alíquota do PIS em R$ do item (N) não é maior ou igual a zero.</cod1484>
+	<cod1486>Rejeição: Código de Situação Tributária do PIS Inválido (diferente de  04, 06, 07, 08 e 09)</cod1486>
+	<cod1487>Rejeição: Código de Situação Tributária do PIS inválido (diferente de  49)</cod1487>
+	<cod1488>Rejeição: Código de Situação Tributária do PIS Inválido (diferente de  99)</cod1488>
+	<cod1490>Rejeição: Código de Situação Tributária da COFINS Inválido (diferente de  01, 02 e 05)</cod1490>
+	<cod1491>Rejeição: Base de cálculo do COFINS  do item (N) inválido.</cod1491>
+	<cod1492>Rejeição: Alíquota da COFINS do item (N) não é maior ou igual a zero.</cod1492>
+	<cod1494>Rejeição: Código de Situação Tributária da COFINS Inválido (diferente de  03)</cod1494>
+	<cod1496>Rejeição: Alíquota da COFINS em R$ do item (N) não é maior ou igual a zero.</cod1496>
+	<cod1498>Rejeição: Código de Situação Tributária da COFINS Inválido (diferente de  04, 06, 07, 08 e 09)</cod1498>
+	<cod1499>Rejeição: Código de Situação Tributária da COFINS Inválido (diferente de  49)</cod1499>
+
+	<cod1500>Rejeição: Código de Situação Tributária da COFINS Inválido (diferente de  99)</cod1500>
+	<cod1501>Rejeição: Operação com tributação de ISSQN sem informar a Inscrição Municipal</cod1501>
+	<cod1503>Rejeição: Valor das deduções para o ISSQN do item (N) não é maior ou igual a zero.</cod1503>
+	<cod1505>Rejeição: Alíquota efetiva do ISSQN do item (N) não é maior ou igual a  2,00 (2%) e menor ou igual a 5,00 (5%).</cod1505>
+	<cod1507>Rejeição: Indicador de rateio para ISSQN inválido</cod1507>
+	<cod1508>Rejeição: Item da lista de Serviços do ISSQN do item (N) não é maior ou igual a zero.</cod1508>
+	<cod1509>Rejeição: Código municipal de Tributação do ISSQN do Item (N) em branco.</cod1509>
+	<cod1510>Rejeição: Código de Natureza da Operação para ISSQN inválido</cod1510>
+	<cod1511>Rejeição: Indicador de Incentivo Fiscal do ISSQN do item (N) inválido (diferente de 1 e 2)</cod1511>
+	<cod1527>Rejeição: Código do Meio de Pagamento inválido</cod1527>
+	<cod1528>Rejeição: Valor do Meio de Pagamento inválido.</cod1528>
+	<cod1533>Rejeição: Valor aproximado dos tributos do CF-e_SAT negativo.</cod1533>
+	<cod1534>Rejeição: Valor aproximado dos tributos do produto negativo.</cod1534>
+	<cod1535>Rejeição: código da credenciadora de cartão de débito ou crédito inválido</cod1535>
+
+	<cod1751>Rejeição: não informado código do produto.</cod1751>
+	<cod1752>Rejeição: código de produto informado fora do padrão ANP.</cod1752>
+	<cod1998>Rejeição: Não é possível gerar o cupom com os dados de entrada informados, pois resultam valores negativos.</cod1998>
+	<cod1999>Rejeição: Erro não identificado</cod1999>
+</tabelaErros>
